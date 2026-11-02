@@ -241,3 +241,17 @@ MIT License. See [`LICENSE`](LICENSE).
 ## Academic context
 
 BCA – 5th Semester | Subject: Software Quality Testing | Stack: PHP, MySQL, HTML5, CSS3 and JavaScript.
+
+## Application Screenshots
+
+### 1. Login Page
+![Library Management System Login](login-1.png)
+
+### 2. Admin Dashboard
+![Admin Dashboard](dashboard-1.png)
+
+### 3. Reports
+![Library Reports](reports.png)
+
+### 4. Student Dashboard
+![Student Dashboard](user.png)
