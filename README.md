@@ -1,8 +1,26 @@
 # 📚 Library Management System
 
+<p align="center">
+  <strong>A PHP & MySQL Based Library Management Web Application</strong>
+  <br>
+  A simple, structured and role-based system for managing books, members, borrowing and returns.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8.2%2B-777BB4?logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-8.0%2B-4479A1?logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Status-Development-blue" alt="Project Status">
+</p>
+
+---
+
+
 A role-based library web application built with **PHP 8.2+, MySQL 8, HTML5, CSS3 and JavaScript**. It supports catalogue management, member accounts, book issuing and returns, overdue fines, transaction history and reports.
 
-![PHP](https://img.shields.io/badge/PHP-8.2%2B-777BB4) ![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1) ![Status](https://img.shields.io/badge/Status-Academic%20Project-blue)
+
 
 > **Implementation status:** This repository contains a runnable initial implementation of the core modules. Payment gateway, notifications, reservations, RFID/barcode hardware, multi-branch support and mobile apps are not implemented. Review the test plan and run the MySQL integration checks locally before production use.
 
