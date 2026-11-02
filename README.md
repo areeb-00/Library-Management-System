@@ -25,6 +25,38 @@ A role-based library web application built with **PHP 8.2+, MySQL 8, HTML5, CSS3
 > **Implementation status:** This repository contains a runnable initial implementation of the core modules. Payment gateway, notifications, reservations, RFID/barcode hardware, multi-branch support and mobile apps are not implemented. Review the test plan and run the MySQL integration checks locally before production use.
 
 ## Contents
+## ✨ Key Features
+
+### 🔐 Authentication & User Roles
+- Secure login system.
+- Role-based access for Administrators, Librarians and Students.
+- Separate dashboards and permissions.
+
+### 📚 Book Management
+- Add, edit and manage books.
+- Organize books by categories.
+- Track total and available book copies.
+
+### 🔄 Issue & Return Management
+- Issue books to registered students.
+- Record book return transactions.
+- Track active and overdue loans.
+
+### 💰 Fine Management
+- Calculate overdue fines.
+- Track outstanding balances.
+- View fine-related records.
+
+### 👥 User Management
+- Manage student and librarian accounts.
+- Maintain user information and roles.
+
+### 📊 Reports & Dashboard
+- View library statistics and activity.
+- Monitor book circulation.
+- Review borrowing history and reports.
+
+###
 - [Overview](#overview)
 - [Roles and features](#roles-and-features)
 - [Technology and requirements](#technology-and-requirements)
