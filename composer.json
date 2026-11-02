@@ -1,0 +1,8 @@
+{
+  "name": "academic/library-management-system",
+  "description": "PHP and MySQL Library Management System",
+  "type": "project",
+  "require": {"php": ">=8.2", "ext-pdo": "*", "ext-pdo_mysql": "*"},
+  "autoload": {"psr-4": {"Lms\\": "app/"}},
+  "scripts": {"lint": "find app public -name '*.php' -print0 | xargs -0 -n1 php -l"}
+}
