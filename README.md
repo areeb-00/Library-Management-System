@@ -97,7 +97,7 @@ Clone into the XAMPP web root:
 
 ```bash
 cd C:\xampp\htdocs
-git clone https://github.com/YOUR_USERNAME/Library-Management-System.git
+git clone https://github.com/areeb-00/Library-Management-System.git
 cd Library-Management-System
 ```
 
@@ -215,7 +215,7 @@ git init
 git add .
 git commit -m "feat: initial library management system"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/Library-Management-System.git
+git remote add origin https://github.com/areeb-00/Library-Management-System.git
 git push -u origin main
 ```
 
